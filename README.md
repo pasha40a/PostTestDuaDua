@@ -1,12 +1,12 @@
 ## JuaraCoding REST API Testing
 ### Get List
-![alt text](screenshot/GetList.PNG)
+![alt text](master/screenshot/GetList.PNG)
 ### Get Single
-![alt text](screenshot/GetSingle.PNG)
+![alt text](master/screenshot/GetSingle.PNG)
 ### Put Data
-![alt text](screenshot/PutData.PNG)
+![alt text](master/screenshot/PutData.PNG)
 ### Patch Data
-![alt text](screenshot/PatchData.PNG)
+![alt text](masterscreenshot/PatchData.PNG)
 ### Delete Data
-![alt text](screenshot/DeleteData.PNG)
+![alt text](master/screenshot/DeleteData.PNG)
 
